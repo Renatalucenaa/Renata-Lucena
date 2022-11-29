@@ -1,0 +1,58 @@
+body {
+	background: linear-gradient(771deg, #d400ff, #db85ec, #d400ff,);
+}
+
+#banner {
+	width:50px;
+	height: 20px;
+}
+
+
+.principal{
+	
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+	
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	padding: 20px;
+}
+
+
+.imagembeneficios {
+	width: 50%;
+}
+
+.lista-que-amo{
+	width: 500px;
+    margin-right: 80px;
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+}
+
+
